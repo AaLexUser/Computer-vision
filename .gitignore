@@ -5,3 +5,7 @@ lib
 share
 pyvenv.cfg
 
+### Mac ###
+.DS_Store
+
+
